@@ -33,23 +33,7 @@ I am a Web Developer and Computer Science Student from Pakistan.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talha-satti786)
 
 ---
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/talha_stti rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-01dae89f-f44e-4919-9469-b2bb84b51011' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >talha_stti</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫:
- 
-I'm a passionate and seasoned Machine Learning Engineer with a solid 3-year journey in the AI realm. Specializing in crafting AI models and software engineering, I offer one-stop solutions for AI, NLP, and Data Science alongside website, mobile, and desktop application development. Proficient in Python and its frameworks including TensorFlow, PyTorch, and more, I'm dedicated to delivering high-quality solutions that exceed expectations. Let's collaborate to turn your ideas into reality and drive success in the digital age!</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-01dae89f-f44e-4919-9469-b2bb84b51011' src='https://widgets.fiverr.com/api/v1/seller/talha_stti?widget_id=01dae89f-f44e-4919-9469-b2bb84b51011' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
 ### :hammer_and_wrench: Languages and Tools :
 
