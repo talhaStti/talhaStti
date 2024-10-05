@@ -33,7 +33,7 @@ I am a Web Developer and Computer Science Student from Pakistan.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/talha-satti786)
 
 ---
-[![An image of @talhastti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/talhastti)](https://holopin.io/@talhastti)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -42,6 +42,7 @@ I am a Web Developer and Computer Science Student from Pakistan.
 
 
 ---
+[![An image of @talhastti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/talhastti)](https://holopin.io/@talhastti)
 
 ### :fire: My Stats :
 
